@@ -5,4 +5,4 @@ A retail company “ABC Private Limited” wants to understand the customer purc
 
 * The data set also contains customer demographics (age, gender, marital status, citytype, stayincurrentcity), product details (productid and product category) and Total purchaseamount from last month.
 
-* Now, they want to build a model to predict the purchase amount of customer against various products which will help them to create personalized offer for customers against different products.
+* Now, they want to build a model to predict the purchase amount of customer against various products which will help them to create personalized offer for customers against different products.# Mallcustomers_eda
